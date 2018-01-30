@@ -1,6 +1,6 @@
 // write your code below!
 var name = "you"
-var holiday = "Independence Day" || "Mother's Day"
+var holiday = "Independence Day"
 var days = 20
 
 function happyHolidays(){
@@ -17,4 +17,6 @@ function happyHolidayTo() {
 
 function holidayCountdown() {
   return `It's ${days} days until ${holiday}!`
+  if ${holiday} !== "Mother's Day"
+    return "Mother's Day"
 }
