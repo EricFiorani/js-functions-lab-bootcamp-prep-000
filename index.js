@@ -17,6 +17,4 @@ function happyHolidayTo() {
 
 function holidayCountdown() {
   return `It's ${days} days until ${holiday}!`
-  if ${holiday} !== "Mother's Day"
-    return "Mother's Day"
 }
