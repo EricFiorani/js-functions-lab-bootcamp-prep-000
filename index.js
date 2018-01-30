@@ -3,7 +3,7 @@ var name = "Brandy"
 var holiday = "Valentines Day"
 var days = 16
 
-function happyHolidays(){
+function happyHolidays(string){
   return "Happy Holidays!"
 }
 
@@ -12,7 +12,7 @@ function happyHolidaysTo(){
 }
 
 function happyHolidayTo() {
-  return `Happy ` + ${holiday} + `,` + ${name} + `!`
+  return `Happy ${holiday}, ${name}!`
 }
 
 function holidayCountdown() {
