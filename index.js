@@ -1,6 +1,6 @@
 // write your code below!
 var name = "you"
-var holiday = "Valentines Day"
+var holiday = "Valentine's Day"
 var days = 16
 
 function happyHolidays(string){
