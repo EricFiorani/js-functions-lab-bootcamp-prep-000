@@ -4,7 +4,7 @@ var holiday = "Valentines Day"
 var days = 16
 
 function happyHolidays(string){
-  return "Happy Holidays!"
+  return "Happy holidays!"
 }
 
 function happyHolidaysTo(){
